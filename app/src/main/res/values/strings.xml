@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My_Sanzhoujishi0623</string>
+    <string name="incude">查看地区</string>
+    <string name="bj">北京</string>
+    <string name="sh">上海</string>
+    <string name="tj">天津</string>
+    <string name="wh">武汉</string>
+    <string name="nj">南京</string>
+
+</resources>
